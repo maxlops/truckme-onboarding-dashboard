@@ -1,0 +1,11 @@
+Cliente,Executivo Comercial,Prioridade,Data de Entrada,Fase Atual,Status Geral,Docs Solicitados,Docs Recebidos na TruckMe,Crédito Analisado,Treinamento Agendado,Visita Necessária,Visita Realizada,Data 1ª Carga Teste,Data Última Carga Teste Realizada,Cargas Teste Esperada,Cargas Teste Realizada,% Avanço POC,Tempo Médio Entre Cargas (dias),Dias Sem Cargas Realizadas,Status Ritmo POC,Próxima Ação Recomendada,Responsável Ação Recomendada,Observações,% Conclusão,Farol
+Toscano,,Média,24/03/2026,Follow Up 10 cargas teste,Em andamento,TRUE,TRUE,TRUE,FALSE,Sim,TRUE,13/04/2026,04/05/2026,10,2,20%,"21,0",58 dias sem cargas realizadas,Sem novas cargas,,,,83%,Crítico
+Packseven,,Média,11/06/2026,Carga teste agendada,Em andamento,TRUE,TRUE,TRUE,FALSE,Sim,FALSE,,,10,,0%,,Sem carga teste realizada,Sem carga realizada,,,,50%,Atenção
+Gráfica Canastra,,Média,19/02/2026,Follow Up 10 cargas teste,Em andamento,TRUE,TRUE,TRUE,TRUE,Não,FALSE,24/03/2026,11/06/2026,10,2,20%,"79,0",20 dias sem cargas realizadas,Sem novas cargas,,,,100%,Crítico
+Aliança,,Média,11/02/2026,Follow Up 10 cargas teste,Em andamento,TRUE,TRUE,TRUE,TRUE,Sim,TRUE,15/04/2026,15/04/2026,10,2,20%,"0,0",77 dias sem cargas realizadas,Sem novas cargas,,,,100%,Crítico
+Le Biscuit,,Média,16/06/2026,Carga teste agendada,Início,TRUE,TRUE,TRUE,TRUE,Sim,TRUE,,,10,,0%,,Sem carga teste realizada,Sem carga realizada,,,,83%,Em dia
+Mastersense,,Média,20/05/2026,Carga teste agendada,Início,TRUE,TRUE,TRUE,TRUE,Sim,FALSE,,,10,,0%,,Sem carga teste realizada,Sem carga realizada,,,,67%,Atenção
+Granja Faria,,Média,17/06/2026,Carga teste agendada,Início,TRUE,TRUE,TRUE,FALSE,,FALSE,,,10,,0%,,Sem carga teste realizada,Sem carga realizada,,,,50%,Atenção
+SL Sereais,,Média,31/03/2026,Análise de crédito,Início,TRUE,TRUE,TRUE,FALSE,,FALSE,,,10,,0%,,Sem carga teste realizada,Sem carga realizada,,,,50%,Atenção
+QualiCoco,,Média,02/06/2026,Análise de crédito,Início,TRUE,TRUE,FALSE,FALSE,,FALSE,,,10,,0%,,Sem carga teste realizada,Sem carga realizada,,,,33%,Atenção
+G-Tex São Paulo,,Média,22/06/2026,Carga teste agendada,Início,TRUE,TRUE,TRUE,TRUE,,FALSE,30/06/2026,30/06/2026,10,1,10%,,1 dias sem cargas realizadas,Ativo,,,,83%,Em dia
