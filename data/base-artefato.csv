@@ -8,5 +8,5 @@ Mastersense,,Média,20/05/2026,Carga teste agendada,Início,TRUE,TRUE,TRUE,TRUE,
 Granja Faria,,Alta,17/06/2026,Carga teste agendada,Início,TRUE,TRUE,TRUE,FALSE,,FALSE,,,10,0,0%,,Sem carga teste realizada,Sem carga realizada,Prospecção Mesa de Frete,Operação,,25%,Atenção
 SL Sereais,,Média,31/03/2026,Solicitação documental,Início,TRUE,TRUE,TRUE,FALSE,,FALSE,,,10,0,0%,,Sem carga teste realizada,Sem carga realizada,Sondar por documentação,Comercial,,25%,Atenção
 QualiCoco,,Média,02/06/2026,Solicitação documental,Início,TRUE,TRUE,FALSE,FALSE,,FALSE,,,10,0,0%,,Sem carga teste realizada,Sem carga realizada,Sondar por documentação,Comercial,,17%,Atenção
-GTex São Paulo,,Alta,22/06/2026,10 cargas teste,Em andamento,TRUE,TRUE,TRUE,TRUE,,FALSE,30/06/2026,11/07/2026,10,7,70%,2,4 dias sem cargas realizadas,Monitorar,Acompanhar,CS,,77%,Em dia
+GTex São Paulo,,Alta,22/06/2026,POC concluída,Concluído,TRUE,TRUE,TRUE,TRUE,,FALSE,30/06/2026,16/07/2026,10,10,100%,2,-1 dias sem cargas realizadas,Ativo,Handoff → Operação,CS,,92%,Concluído
 Farmax,,Média,18/06/2026,Carga teste agendada,Início,TRUE,FALSE,TRUE,TRUE,,FALSE,,,10,,0%,,Sem carga teste realizada,Sem carga realizada,Sondar por dados usuários,CS,,25%,Atenção
